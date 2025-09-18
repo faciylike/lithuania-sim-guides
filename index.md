@@ -80,3 +80,10 @@ layout: default
 
 　　希望这篇指南能帮你扫清障碍。说到底，选择物理SIM卡还是eSIM，取决于你对性价比和便利性的权衡。但无论哪种，在立陶宛享受高速网络都不是件难事。祝你旅途畅通无阻！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Lithuania eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/lithuania-data-plans)
